@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "People.Tests": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
