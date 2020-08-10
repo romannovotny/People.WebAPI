@@ -22,5 +22,6 @@ This script will launch the `docker-compose` command to build and run the ASP.NE
 
 
  Integration tests will run as soon as the two containers have been created and message will appear in the output.
+ (People.IntegrationTests/IntegrationTests.PNG)
 
  Containers are stopped and the end and recreated at each execution of the script, so that test results can be deterministic.
