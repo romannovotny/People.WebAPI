@@ -1,5 +1,5 @@
 # People Web API
-.Net Core 3.1 Web API running on Linux docker with repository pattern on mssql database, jwt login, in-memory unit tests and docker integration tests.
+.Net Core 3.1 Web API running on Linux docker with repository pattern on MSSQL database, JWT login, in-memory unit tests and docker integration tests.
 
 ## JWT
 UserName and password for JWT token is set to "test" for purpose of simplicity in this example.
